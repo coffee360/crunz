@@ -1,0 +1,20 @@
+{
+  "name": "phpfunction/crunz",
+  "description": "crunz",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Phpfunction\\Crunz\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "phpfunction",
+      "email": "164589895@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "lavary/crunz": "v2.3.1"
+  }
+}
